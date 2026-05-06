@@ -437,10 +437,6 @@
 ||uraban.me
 ||vrsmash.com
 ||vultryhw.com
-||scache.vzw.com
-||scache1.vzw.com
-||scache2.vzw.com
-||ss7.vzw.com
 ||ssr.tools
 ||steemit.com
 ||taiwanjustice.net
@@ -3307,6 +3303,7 @@ iipdigital.usembassy.gov
 ||rutracker.org
 |http://rxhj.net
 !--------------------SS-------------------------
+||softether.co.jp
 ||shitjournal.org
 ||spacex.com
 ||stephaniered.com
@@ -3838,6 +3835,7 @@ iipdigital.usembassy.gov
 ||contests.twilio.com
 ||typora.io
 !--------------------UU-------------------------
+||upsangel.com
 ||sbti.unun.dev
 ||uniswap.org
 ||up.audio
