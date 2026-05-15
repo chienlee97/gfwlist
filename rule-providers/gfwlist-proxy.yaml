@@ -737,6 +737,7 @@ payload:
   - DOMAIN-SUFFIX,cpu-monkey.com
   - DOMAIN-SUFFIX,crackle.com
   - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,crazypool.org
   - DOMAIN-SUFFIX,crazyshit.com
   - DOMAIN-SUFFIX,crbug.com
